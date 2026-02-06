@@ -55,3 +55,5 @@ And here’s some more photos to before calling it a night. Boise lets you get s
 And a timelapse of the drive:
 
 {% include youtube.html id="WijnrjMYx_M" %}
+
+{% include series-nav.html series="ev_road_trip" %}

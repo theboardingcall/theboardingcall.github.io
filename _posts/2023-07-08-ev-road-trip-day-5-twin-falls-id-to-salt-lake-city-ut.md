@@ -61,3 +61,5 @@ Interstate 80 after Wendover is straight and flat. You just cruise along at 80 f
 Time lapse:
 
 {% include youtube.html id="DMlpaLoA1AU" %}
+
+{% include series-nav.html series="ev_road_trip" %}

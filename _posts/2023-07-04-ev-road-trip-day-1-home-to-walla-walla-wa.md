@@ -39,6 +39,8 @@ We stopped for a 15 minute break at the Kennewick Supercharger, and did the rest
 
 ![](/assets/images/2023/07/IMG_3523-1-scaled.jpeg) *48A (80A capable) Destination Charger at Amavi Winery* ![](/assets/images/2023/07/IMG_3530-scaled.jpeg) *The slowest DCFC I’ve ever seen. ABB 23kw units (CSS and ChaDeMo)* 
 
-That’s all for today. Time to hit the gym, get some rest, and head to Boise, ID tomorrow.
+That's all for today. Time to hit the gym, get some rest, and head to Boise, ID tomorrow.
 
 ![](/assets/images/2023/07/DO01000006.jpg) *View from Amavi Winery – Leica Q3*
+
+{% include series-nav.html series="ev_road_trip" %}

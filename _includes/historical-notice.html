@@ -1,0 +1,21 @@
+{% comment %}
+  Historical content notice for posts with time-sensitive information
+  Usage: {% include historical-notice.html year="2016" %}
+  Optional: type="prices" or type="deals" for specific messaging
+{% endcomment %}
+
+{% assign current_year = 'now' | date: "%Y" | plus: 0 %}
+{% assign post_year = include.year | default: page.date | date: "%Y" | plus: 0 %}
+{% assign years_old = current_year | minus: post_year %}
+
+{% if years_old >= 2 %}
+<div class="historical-notice">
+  {% if include.type == "prices" %}
+    <p><strong>Note:</strong> This post was originally published in {{ post_year }}. Prices, availability, and business details may have changed. The travel tips and general destination information remain valuable, but we recommend verifying current prices and operating hours.</p>
+  {% elsif include.type == "deals" %}
+    <p><strong>Archived Deal:</strong> This post from {{ post_year }} describes a time-limited travel deal or promotion. While the specific offer is no longer available, the destination insights and travel strategies may still be useful.</p>
+  {% else %}
+    <p><strong>Historical Content:</strong> This post was originally published in {{ post_year }}. While the destination insights and travel philosophy remain relevant, specific details like prices, hours, and business recommendations should be independently verified.</p>
+  {% endif %}
+</div>
+{% endif %}

@@ -49,4 +49,6 @@ Another one or two mountain passes and you get to the highland area where Bryce 
 
 ![](/assets/images/2023/07/DO01000139-1.jpg) ![](/assets/images/2023/07/DO01000146-1.jpg) ![](/assets/images/2023/07/DO01000136-1.jpg) ![](/assets/images/2023/07/DO01000137.jpg) 
 
-Tomorrow we’re heading into the National Park to spend the night in the lodge. There’s no wifi there, or cell coverage. So I’ll be breaking out the Starlink dish. Good night.
+Tomorrow we're heading into the National Park to spend the night in the lodge. There's no wifi there, or cell coverage. So I'll be breaking out the Starlink dish. Good night.
+
+{% include series-nav.html series="ev_road_trip" %}

@@ -16,3 +16,5 @@ Back to packing…
 ![](/assets/images/2023/06/Screenshot-2023-06-20-at-10.01.59-PM.png) The planned route
 
 See you very soon!
+
+{% include series-nav.html series="ev_road_trip" %}

@@ -20,3 +20,5 @@ This is really going to be a photo post. But I wanted to point out a few things:
 ![](/assets/images/2023/07/DO01000151.jpg) *Wall Street* ![](/assets/images/2023/07/DO01000265.jpg) *Sunset* ![](/assets/images/2023/07/DO01000296.jpg) *Stargazing. You can see the Milky Way with your naked eye here.* ![](/assets/images/2023/07/DO01000331.jpg) *Sunrise* 
 
 The update for this day was delayed due to many things going on and prioritizing sleep. See you in Zion!
+
+{% include series-nav.html series="ev_road_trip" %}

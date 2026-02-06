@@ -14,3 +14,5 @@ We’re taking a day at a cheaper hotel, and 30 minutes south of the major metro
 ![](/assets/images/2023/07/IMG_3712.jpeg) *This must be the most picturesque REI with the mountains in the background.* ![](/assets/images/2023/07/IMG_3714.jpeg) *Provo is 88% Mormon* ![](/assets/images/2023/07/IMG_3715.jpeg) *4 6kW free chargers.* ![](/assets/images/2023/07/IMG_3554.jpeg) *SLC Mountains* 
 
 Long post coming for Day 7.
+
+{% include series-nav.html series="ev_road_trip" %}

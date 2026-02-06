@@ -30,3 +30,5 @@ We stayed at Zion Lodge, which is excellent. Unfortunately the Wi-Fi there is wo
 Starlink worked surprisingly well, considering it was very obstructed with Trees and the lodge overhead. But it worked better than whatever internet was provided to the Zion Lodge, and I could even upload the above time lapse to YouTube.
 
 Full day of Zion tomorrow
+
+{% include series-nav.html series="ev_road_trip" %}

@@ -18,3 +18,5 @@ Photos:
 ![](/assets/images/2023/07/IMG_4084.jpg) ![](/assets/images/2023/07/L1000392.jpg) ![](/assets/images/2023/07/L1000405.jpg) ![](/assets/images/2023/07/L1000408.jpg) ![](/assets/images/2023/07/L1000411.jpg) ![](/assets/images/2023/07/L1000387.jpg) ![](/assets/images/2023/07/L1000409.jpg) ![](/assets/images/2023/07/IMG_4081.jpg) ![](/assets/images/2023/07/IMG_4087.jpg) ![](/assets/images/2023/07/IMG_4088.jpg) ![](/assets/images/2023/07/IMG_4083-1.jpg) ![](/assets/images/2023/07/IMG_4083.jpg) 
 
 Vegas tomorrow.
+
+{% include series-nav.html series="ev_road_trip" %}

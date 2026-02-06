@@ -1,0 +1,44 @@
+{% comment %}
+  Series navigation include.
+  Usage: {% include series-nav.html series="ev_road_trip" %}
+  Requires a matching data file in _data/ (e.g., _data/ev_road_trip.yml).
+  Each entry needs: title, url
+{% endcomment %}
+
+{% assign series = site.data[include.series] %}
+{% if series %}
+  {% assign current_index = -1 %}
+  {% for entry in series %}
+    {% if entry.url == page.permalink or entry.url == page.url %}
+      {% assign current_index = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if current_index >= 0 %}
+    {% assign prev_index = current_index | minus: 1 %}
+    {% assign next_index = current_index | plus: 1 %}
+
+    <nav class="series-nav" aria-label="Series navigation">
+      <p class="series-nav__label">EV Road Trip 2023 &mdash; Part {{ current_index | plus: 1 }} of {{ series.size }}</p>
+      <div class="series-nav__links">
+        {% if prev_index >= 0 %}
+          {% assign prev = series[prev_index] %}
+          <a href="{{ prev.url }}" class="series-nav__prev" rel="prev">
+            &larr; {{ prev.title }}
+          </a>
+        {% else %}
+          <span class="series-nav__prev series-nav__disabled"></span>
+        {% endif %}
+
+        {% if next_index < series.size %}
+          {% assign next = series[next_index] %}
+          <a href="{{ next.url }}" class="series-nav__next" rel="next">
+            {{ next.title }} &rarr;
+          </a>
+        {% else %}
+          <span class="series-nav__next series-nav__disabled"></span>
+        {% endif %}
+      </div>
+    </nav>
+  {% endif %}
+{% endif %}

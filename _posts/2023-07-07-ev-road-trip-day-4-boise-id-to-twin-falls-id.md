@@ -33,3 +33,5 @@ Let’s just say that I’m surprised at the natural beauty of Twin Falls. I tot
 ![](/assets/images/2023/07/DO01000073-1.jpg) ![](/assets/images/2023/07/DO01000099-1.jpg) ![](/assets/images/2023/07/DO01000077.jpg) ![](/assets/images/2023/07/DO01000083-1.jpg) ![](/assets/images/2023/07/DO01000098-1.jpg) ![](/assets/images/2023/07/DO01000096.jpg) ![](/assets/images/2023/07/DO01000103-1.jpg) 
 
 Salt Lake City tomorrow.
+
+{% include series-nav.html series="ev_road_trip" %}

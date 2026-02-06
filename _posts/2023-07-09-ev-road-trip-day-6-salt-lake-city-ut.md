@@ -16,3 +16,5 @@ For live updates, [follow us on Instagram](<https://www.instagram.com/theboardin
 ![](/assets/images/2023/07/IMG_3523.jpeg) ![](/assets/images/2023/07/IMG_3524.jpeg) ![](/assets/images/2023/07/IMG_3701.jpeg) ![](/assets/images/2023/07/IMG_3707.jpeg) ![](/assets/images/2023/07/IMG_3539.jpeg) 
 
 Leaving for Provo tomorrow as a stopover to Bryce Canyon.
+
+{% include series-nav.html series="ev_road_trip" %}

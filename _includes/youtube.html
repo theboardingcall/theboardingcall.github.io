@@ -1,7 +1,9 @@
 <div class="responsive-video-container">
   <iframe
     src="https://www.youtube.com/embed/{{ include.id }}"
+    title="{{ include.title | default: 'YouTube video' }}"
     frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
     loading="lazy"
     style="position:absolute;top:0;left:0;width:100%;height:100%;">

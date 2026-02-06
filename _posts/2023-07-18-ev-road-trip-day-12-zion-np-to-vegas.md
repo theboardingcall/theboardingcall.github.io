@@ -23,4 +23,6 @@ We had dinner at Mott 32, which we cannot recommend the Peking Duck. Everything 
 
 ![](/assets/images/2023/07/IMG_4117.jpeg) ![](/assets/images/2023/07/IMG_4116.jpeg) ![](/assets/images/2023/07/IMG_4115.jpeg) ![](/assets/images/2023/07/IMG_4113.jpeg) ![](/assets/images/2023/07/IMG_4114.jpeg) ![](/assets/images/2023/07/IMG_4112.jpeg) ![](/assets/images/2023/07/IMG_4111.jpeg) ![](/assets/images/2023/07/IMG_4118-1.jpeg) ![](/assets/images/2023/07/IMG_4119-2.jpeg) 
 
-The weather gets even hotter the next day…
+The weather gets even hotter the next day...
+
+{% include series-nav.html series="ev_road_trip" %}
