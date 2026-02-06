@@ -1,0 +1,67 @@
+# Site Settings
+title: The Boarding Call
+subtitle: "Travel Stories & EV Road Trips"
+name: The Boarding Call
+description: "Travel stories, EV road trips, and adventure guides from around the world."
+url: "https://theboardingcall.com"
+baseurl: ""
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
+
+# Build
+markdown: kramdown
+permalink: /:slug/
+paginate: 10
+paginate_path: /page:num/
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Site Author
+author:
+  name: "The Boarding Call"
+
+# Reading Files
+include:
+  - _pages
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
+      related: true
+      show_date: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Outputting
+timezone: America/Los_Angeles
+
+# Feed
+feed:
+  path: feed.xml
