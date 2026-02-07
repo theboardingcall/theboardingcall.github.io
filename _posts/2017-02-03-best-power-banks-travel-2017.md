@@ -7,6 +7,7 @@ categories:
 - Tips
 header:
   image: /assets/images/2017/02/IMG_0685-e1486110282759-scaled.jpg
+  teaser: /assets/images/2017/02/IMG_0685-e1486110282759-scaled.jpg
 ---
 
 Running out of battery when you’re in a foreign country where you don’t exactly speak the language is one thing you definitely want to avoid when you travel. It’s something that’s also easily avoidable. We use power banks when traveling, and never leave home without one. Here are our favorites.

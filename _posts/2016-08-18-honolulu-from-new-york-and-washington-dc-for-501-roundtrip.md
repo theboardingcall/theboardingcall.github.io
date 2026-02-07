@@ -8,6 +8,7 @@ categories:
 - Deals
 header:
   image: /assets/images/2016/08/16022395537_4cff3b2662_k.jpg
+  teaser: /assets/images/2016/08/16022395537_4cff3b2662_k.jpg
 ---
 
 Delta is having a sale to Honolulu from New York and DC with connections in various cities (Seattle, Atlanta, Los Angeles). The sale applies to departing flights from Late September 2016 to December 2016. You’re saving around $200-250.

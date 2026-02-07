@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/IMG_4108.jpeg
+  teaser: /assets/images/2023/07/IMG_4108.jpeg
 ---
 
 We left Zion around 10:30am and stopped by the visitor center to pick up a couple souvenirs and write some postcards. We topped up the battery in the morning, and didn’t have to charge on the way to Vegas. 

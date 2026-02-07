@@ -8,6 +8,7 @@ categories:
 - Tips
 header:
   image: /assets/images/2016/08/6983122874_119cbd4a65_k-e1471756990335.jpg
+  teaser: /assets/images/2016/08/6983122874_119cbd4a65_k-e1471756990335.jpg
 ---
 
 International flights can be 8 hours long. With the longest routes pushing 16 hours. You can survive economy by preparing ahead of time, spending a little money, or picking the right plane. International journeys will be made easier, and all you have to do is a little preparing.

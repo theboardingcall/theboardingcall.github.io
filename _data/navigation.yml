@@ -1,12 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "EV Road Trip 2023"
-    url: /ev-road-trip-series/
   - title: "Travel Guides"
     url: /categories/#guides
-  - title: "All Posts"
-    url: /categories/
   - title: "About"
     url: /about/
   - title: "Contact"

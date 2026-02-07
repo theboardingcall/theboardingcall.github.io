@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/IMG_3517-scaled.jpg
+  teaser: /assets/images/2023/07/IMG_3517-scaled.jpg
 ---
 
 Today is the first day of the trip. An easy 292 miles from Home to Walla Walla. For live updates, [follow us on Instagram](<https://www.instagram.com/theboardingcall/>), we’re posting stories as we go there. 

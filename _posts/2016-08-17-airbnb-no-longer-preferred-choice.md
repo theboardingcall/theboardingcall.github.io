@@ -8,6 +8,7 @@ categories:
 - Tips
 header:
   image: /assets/images/2016/08/stock-photo-victoria-harbor-136994619.jpg
+  teaser: /assets/images/2016/08/stock-photo-victoria-harbor-136994619.jpg
 ---
 
 > AirBNB is a revolution in the hospitality industry. Without going into the politics of vacation rentals and how they affect the market for  _locals,_ find out why AirBNB is no longer my preferred choice.

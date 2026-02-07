@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/DO01000062.jpg
+  teaser: /assets/images/2023/07/DO01000062.jpg
 ---
 
 For live updates, [follow us on Instagram](<https://www.instagram.com/theboardingcall/>), we’re posting stories as we go there.

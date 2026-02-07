@@ -9,6 +9,7 @@ categories:
 - Tips
 header:
   image: /assets/images/2016/10/KC_TOK_2-scaled.jpg
+  teaser: /assets/images/2016/10/KC_TOK_2-scaled.jpg
 ---
 
 Tokyo is a magical place to visit. If you’re not already from a big city like New York, Hong Kong, London, or Paris, etc.. The feeling you get as soon as you step foot out of the station is unlike any other. There’s a buzz in the air, something for every sense, it’s sensory overload in the best way possible.

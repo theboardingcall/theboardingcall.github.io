@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/DO01000151.jpg
+  teaser: /assets/images/2023/07/DO01000151.jpg
 ---
 
 This is really going to be a photo post. But I wanted to point out a few things:

@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/DO01000119.jpg
+  teaser: /assets/images/2023/07/DO01000119.jpg
 ---
 
 We decided to take a detour in order to visit the Bonneville Salt Flats en route to SLC, instead of making an out-and-back trip after wards. Coincidentally, this was almost the prettiest of the drives so far.

@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/L1000411.jpg
+  teaser: /assets/images/2023/07/L1000411.jpg
 ---
 
 We kept this day pretty low key because we managed to get a permit to hike Angel’s Landing, which is an insane hike that spans 5.6 miles and goes up 1600 feet. We wanted to leave the park and check out Springdale, but the line to get back in was too long for us to even consider it. So we drive the scenic drive again, but the light was too harsh at that time of day to take great photos.

@@ -45,8 +45,6 @@ Our journey took us through some of America's most breathtaking landscapes:
 - **Utah**: Salt Lake City, Provo, and the mighty five national parks
 - **Nevada**: Ending in the desert oasis of Las Vegas
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1MlBPTGZ-QQxPZ_CY8YhVKJTdaRzKFhE&ehbc=2E312F" width="100%" height="600" style="border:0; border-radius: 12px; margin: 48px 0; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" allowfullscreen="" loading="lazy"></iframe>
-
 ## All Posts in This Series
 
 <div class="series-grid">

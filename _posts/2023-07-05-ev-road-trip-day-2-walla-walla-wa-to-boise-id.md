@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/DO01000010.jpg
+  teaser: /assets/images/2023/07/DO01000010.jpg
 ---
 
 Being July 4th, many things were closed, so we didn’t stick around in Walla Walla and started our way towards Boise earlier than planned. For live updates, [follow us on Instagram](<https://www.instagram.com/theboardingcall/>), we’re posting stories as we go there.

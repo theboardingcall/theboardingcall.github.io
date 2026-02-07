@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/IMG_3897.jpeg
+  teaser: /assets/images/2023/07/IMG_3897.jpeg
 ---
 
 This drive was done without a charging stop, as there are chargers at the Zion Lodge. The Zion Canyon Scenic Drive is exactly that, very scenic. 

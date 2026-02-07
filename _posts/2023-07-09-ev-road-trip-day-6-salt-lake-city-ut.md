@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/IMG_3707.jpeg
+  teaser: /assets/images/2023/07/IMG_3707.jpeg
 ---
 
 Rest day. Enjoy the photos. It’s hot and dry here. Can’t wear contact lenses for more than a couple hours.

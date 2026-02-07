@@ -7,6 +7,7 @@ categories:
 - Guides
 header:
   image: /assets/images/2017/01/IMG_0058.jpg
+  teaser: /assets/images/2017/01/IMG_0058.jpg
 ---
 
 Check out the Fukuoka Travel Guide! Go to Japan once, and you’ll always think of returning. If you’ve already explored Tokyo and Osaka and want a new Japanese city to explore, Fukuoka is the perfect weekend destination. A flight from HKG to FUK takes only 3 hours; 1 hour quicker than flying to Tokyo.

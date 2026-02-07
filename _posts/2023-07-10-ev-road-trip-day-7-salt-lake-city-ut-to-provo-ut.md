@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/IMG_3554.jpeg
+  teaser: /assets/images/2023/07/IMG_3554.jpeg
 ---
 
 We’re taking a day at a cheaper hotel, and 30 minutes south of the major metropolitan. This is a staging day as we can avoid SLC traffic, charge up for free at the hotel, and shave 30 minutes off of our drive to Bryce Canyon. We’re using this stop to do laundry, re-pack our things, and prep the car for the journey into the National Parks.

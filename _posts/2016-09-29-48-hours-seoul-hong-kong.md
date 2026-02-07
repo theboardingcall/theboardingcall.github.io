@@ -9,6 +9,7 @@ categories:
 - Tips
 header:
   image: /assets/images/2016/09/IMG_0311-scaled.jpg
+  teaser: /assets/images/2016/09/IMG_0311-scaled.jpg
 ---
 
 Seoul is one of the easiest destinations to travel to in Asia. You can get by with knowing little to no Korean. Most people in Seoul either spoke some English or Mandarin Chinese. In fact – it was surprising to me that there were so many Koreans that spoke Chinese!

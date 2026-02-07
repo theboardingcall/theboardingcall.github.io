@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2017/02/IMG_0387-scaled.jpg
+  teaser: /assets/images/2017/02/IMG_0387-scaled.jpg
 ---
 
 Over the last couple weeks, I’ve created an adventure for myself seeking out Mahjong shops in Hong Kong. The last of their kind, these shops exist to keep the memories alive of generations past.

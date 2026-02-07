@@ -7,6 +7,7 @@ categories:
 - Stories
 header:
   image: /assets/images/2023/07/DO01000139-1.jpg
+  teaser: /assets/images/2023/07/DO01000139-1.jpg
 ---
 
 We’ve been on the move for 9 hours, with about 5.5 hours of actual driving time. Let’s just say we took the scenic route. We knew this ahead of time which is why we planned to stay outside of the National Park where we can prepare for the next few days, charge up the car, and grab a hot meal before heading into Bryce and Zion for the three nights.

@@ -8,6 +8,7 @@ categories:
 - Tips
 header:
   image: /assets/images/2016/09/IMG_8397-scaled.jpg
+  teaser: /assets/images/2016/09/IMG_8397-scaled.jpg
 ---
 
 Over the past few years, United is starting a transition from 3-cabin to 2-cabin international flights. With the exception of a few routes, more and more routes are 2-cabin.
