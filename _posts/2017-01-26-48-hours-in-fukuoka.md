@@ -8,6 +8,8 @@ categories:
 header:
   image: /assets/images/2017/01/IMG_0058.jpg
   teaser: /assets/images/2017/01/IMG_0058.jpg
+image: /assets/images/2017/01/IMG_0058.jpg
+description: "A 48-hour travel guide to Fukuoka, Japan with tips on ramen, street food, temples, and exploring beyond Tokyo and Osaka."
 ---
 
 Check out the Fukuoka Travel Guide! Go to Japan once, and you’ll always think of returning. If you’ve already explored Tokyo and Osaka and want a new Japanese city to explore, Fukuoka is the perfect weekend destination. A flight from HKG to FUK takes only 3 hours; 1 hour quicker than flying to Tokyo.
@@ -23,7 +25,7 @@ Fukuoka is getting increasingly popular as more low cost carriers launch routes 
 [  
 ](<http://www.jdoqocy.com/click-8137217-10661254>)
 
-![](/assets/images/image-8137217-10661254)
+![Ctrip travel deals advertisement](/assets/images/image-8137217-10661254)
 
 Ideally, low cost carriers will be in the following range of cost for a roundtrip ticket:
 
@@ -74,7 +76,7 @@ As for food that’s prepared for you, these are the foods that Fukuoka is known
 
 **Hakata-style ramen** : thin ramen noodles served in milky, rich soup (the birthplace of [Ganso Nagahama](<http://www.anrdoezrs.net/links/8137217/type/dlg/https://www.tripadvisor.com/Restaurant_Review-g298207-d7054997-Reviews-Ganso_Nagahamaya-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html>), [Ichiran](<https://www.ichiran.co.jp/english/html/q_nanokawa.html>) & [Ippudo](<http://www.ippudo.com>))
 
-![](/assets/images/2017/01/IMG_2653-e1485403098711-1024x1024-1.jpg)
+![Hakata-style ramen with thin noodles in milky rich soup](/assets/images/2017/01/IMG_2653-e1485403098711-1024x1024-1.jpg)
 
 **Mentaiko** : Pollock Roe, usually served with rice (Mentaiko Mayo is something you can only find in Fukuoka)
 

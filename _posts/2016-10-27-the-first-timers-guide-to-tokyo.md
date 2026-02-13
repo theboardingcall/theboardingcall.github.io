@@ -10,6 +10,8 @@ categories:
 header:
   image: /assets/images/2016/10/KC_TOK_2-scaled.jpg
   teaser: /assets/images/2016/10/KC_TOK_2-scaled.jpg
+image: /assets/images/2016/10/KC_TOK_2-scaled.jpg
+description: "The ultimate first-timer's guide to Tokyo covering neighborhoods, food, transit, culture tips, and must-see attractions."
 ---
 
 Tokyo is a magical place to visit. If you’re not already from a big city like New York, Hong Kong, London, or Paris, etc.. The feeling you get as soon as you step foot out of the station is unlike any other. There’s a buzz in the air, something for every sense, it’s sensory overload in the best way possible.
@@ -26,7 +28,7 @@ If you’re still searching for flights – [Expedia](<http://www.dpbolvw.net/cl
 
 I always recommend staying in a hotel for your first trip to Tokyo. The basic level of service in Japan is steps above any other country. You’ll best experience Japanese hospitality in a hotel, rather than in an AirBNB.
 
-![](/assets/images/2016/10/IMG_6312-cropped.png) *The result of leaving a bag of trash nearby the garbage bin.* 
+![The result of leaving a bag of trash nearby the garbage bin](/assets/images/2016/10/IMG_6312-cropped.png) *The result of leaving a bag of trash nearby the garbage bin.* 
 
 Once you land in Japan – there’s plenty of transportation options to get into town.
 

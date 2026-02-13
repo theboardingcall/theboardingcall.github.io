@@ -8,6 +8,8 @@ categories:
 header:
   image: /assets/images/2017/02/IMG_0387-scaled.jpg
   teaser: /assets/images/2017/02/IMG_0387-scaled.jpg
+image: /assets/images/2017/02/IMG_0387-scaled.jpg
+description: "Exploring Hong Kong's last mahjong tile shops, where artisans hand-carve tiles in a craft fading with their generation."
 ---
 
 Over the last couple weeks, I’ve created an adventure for myself seeking out Mahjong shops in Hong Kong. The last of their kind, these shops exist to keep the memories alive of generations past.

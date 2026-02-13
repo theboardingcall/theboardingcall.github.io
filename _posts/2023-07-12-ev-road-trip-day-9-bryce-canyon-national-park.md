@@ -8,6 +8,8 @@ categories:
 header:
   image: /assets/images/2023/07/DO01000151.jpg
   teaser: /assets/images/2023/07/DO01000151.jpg
+image: /assets/images/2023/07/DO01000151.jpg
+description: "Day 9: Exploring Bryce Canyon National Park with photos of the hoodoos, hiking trails, and EV charging at Ruby's Inn."
 ---
 
 This is really going to be a photo post. But I wanted to point out a few things:
@@ -18,7 +20,7 @@ This is really going to be a photo post. But I wanted to point out a few things:
   * The food at the lodge restaurant is surprising in a good way.
   * The Sunset lodge has fiber internet, which is also surprising. 250up/250down, maxing out the wifi.
 
-![](/assets/images/2023/07/DO01000151.jpg) *Wall Street* ![](/assets/images/2023/07/DO01000265.jpg) *Sunset* ![](/assets/images/2023/07/DO01000296.jpg) *Stargazing. You can see the Milky Way with your naked eye here.* ![](/assets/images/2023/07/DO01000331.jpg) *Sunrise* 
+![Wall Street](/assets/images/2023/07/DO01000151.jpg) *Wall Street* ![Sunset](/assets/images/2023/07/DO01000265.jpg) *Sunset* ![Stargazing. You can see the Milky Way with your naked eye here.](/assets/images/2023/07/DO01000296.jpg) *Stargazing. You can see the Milky Way with your naked eye here.* ![Sunrise](/assets/images/2023/07/DO01000331.jpg) *Sunrise*
 
 The update for this day was delayed due to many things going on and prioritizing sleep. See you in Zion!
 

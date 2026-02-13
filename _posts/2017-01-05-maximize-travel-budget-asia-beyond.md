@@ -9,6 +9,8 @@ categories:
 header:
   image: /assets/images/2017/01/IMG_8394-min-scaled.jpg
   teaser: /assets/images/2017/01/IMG_8394-min-scaled.jpg
+image: /assets/images/2017/01/IMG_8394-min-scaled.jpg
+description: "How to maximize your travel budget for Asia with strategies for cheap flights, accommodations, and daily spending abroad."
 ---
 
 Traveling out of the country and seeing the world can be more than just a dream. Like most, I used to think that travel outside of the US was extremely expensive and it prohibited me from traveling. However, the truth is the opposite. You can have amazing experiences on a budget. You just need to know how and where to look.

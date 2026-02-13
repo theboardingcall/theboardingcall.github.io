@@ -10,6 +10,8 @@ categories:
 header:
   image: /assets/images/2016/08/Hong-Kong-Dense-Building.jpg
   teaser: /assets/images/2016/08/Hong-Kong-Dense-Building.jpg
+image: /assets/images/2016/08/Hong-Kong-Dense-Building.jpg
+description: "A complete guide to spending 12 days in Hong Kong on a budget, covering flights, hotels, food, and transportation costs."
 ---
 
 Hong Kong is one of those cities that can appear expensive on the surface. However, dig a little deeper, and it can be done on a slim budget easier than you would think. The overwhelming choice of hotels and high competition for flights make the biggest cost of your Hong Kong trip more affordable than Europe, Japan, and even many US destinations. It is entirely possible to do 12 days in Hong Kong on a budget.

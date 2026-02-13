@@ -9,6 +9,8 @@ categories:
 header:
   image: /assets/images/2016/12/IMG_0981-min-e1483168335645-scaled.jpg
   teaser: /assets/images/2016/12/IMG_0981-min-e1483168335645-scaled.jpg
+image: /assets/images/2016/12/IMG_0981-min-e1483168335645-scaled.jpg
+description: "Our tested picks for must-have travel accessories and equipment in 2017, from carry-on bags to noise-canceling headphones."
 ---
 
 Here at The Boarding Call, we travel. We travel a lot. Much of that time is spent flying inter-Asia routes, which means choosing a Low Cost Carrier (LCC), for flights under 5 hours. It just simply isn’t worth it to burn miles on these short flights sometimes. What that means for us, is flights outfitted for a Spartan, lack of creature comforts, and a more bring-your-own mindset. We love our travel accessories.

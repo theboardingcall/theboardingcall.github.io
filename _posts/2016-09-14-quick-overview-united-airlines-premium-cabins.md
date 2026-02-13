@@ -9,6 +9,8 @@ categories:
 header:
   image: /assets/images/2016/09/IMG_8397-scaled.jpg
   teaser: /assets/images/2016/09/IMG_8397-scaled.jpg
+image: /assets/images/2016/09/IMG_8397-scaled.jpg
+description: "An overview of United Airlines premium cabin products including Global First, Polaris Business, and what's changing in 2017."
 ---
 
 Over the past few years, United is starting a transition from 3-cabin to 2-cabin international flights. With the exception of a few routes, more and more routes are 2-cabin.
@@ -25,7 +27,7 @@ Although both types of Business First are lay-flat seats. **3-cabin 2-4-2 Busine
 
 Having flown on 2-cabin 787-900’s, and 2 and 3-cabin 777-200’s. 2-cabin Business First seats are not far off from Global First in terms of overall comfort. Aside from marginally better privacy, an extra seat pad, and more storage, it’s not far off. I do not mind 2-cabin Business First at all.
 
-![](/assets/images/2016/09/IMG_9183.jpg) ![](/assets/images/2016/09/IMG_9182.jpg) ![](/assets/images/2016/09/IMG_9181.jpg) 
+![United Airlines Global First cabin amenities](/assets/images/2016/09/IMG_9183.jpg) ![United Airlines Global First seat controls](/assets/images/2016/09/IMG_9182.jpg) ![United Airlines Global First seat reclined](/assets/images/2016/09/IMG_9181.jpg) 
 
 ### A Secret to Global First
 

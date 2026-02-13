@@ -7,6 +7,8 @@ header:
   overlay_image: /assets/images/2023/06/Screenshot-2023-06-20-at-10.01.59-PM.png
   overlay_filter: 0.5
   caption: "3,000 miles across the Western United States"
+image: /assets/images/2023/06/Screenshot-2023-06-20-at-10.01.59-PM.png
+description: "Follow our 27-day, 3,000-mile EV road trip through the Western US with daily photo journals, charging tips, and national park guides."
 ---
 
 <div class="series-landing-hero">

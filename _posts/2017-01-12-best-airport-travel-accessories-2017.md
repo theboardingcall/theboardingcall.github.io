@@ -8,6 +8,8 @@ categories:
 header:
   image: /assets/images/2017/01/IMG_8202-min-scaled.jpg
   teaser: /assets/images/2017/01/IMG_8202-min-scaled.jpg
+image: /assets/images/2017/01/IMG_8202-min-scaled.jpg
+description: "The best airport travel accessories for 2017, from portable chargers to neck pillows that make layovers bearable."
 ---
 
 Let’s face it. Sooner or later all of us will be stranded at an airport at least once. So why not prepare for it? Especially when the airport travel accessories can be used during your trip, and don’t add anything extra to what you’re carrying. It’s a win-win.

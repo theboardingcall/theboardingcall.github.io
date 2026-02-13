@@ -8,11 +8,13 @@ categories:
 header:
   image: /assets/images/2017/02/IMG_0685-e1486110282759-scaled.jpg
   teaser: /assets/images/2017/02/IMG_0685-e1486110282759-scaled.jpg
+image: /assets/images/2017/02/IMG_0685-e1486110282759-scaled.jpg
+description: "The best portable power banks for travel in 2017, compared by capacity, weight, and charging speed for international trips."
 ---
 
 Running out of battery when you’re in a foreign country where you don’t exactly speak the language is one thing you definitely want to avoid when you travel. It’s something that’s also easily avoidable. We use power banks when traveling, and never leave home without one. Here are our favorites.
 
-![](/assets/images/2017/02/IMG_0685-e1486110282759.jpg) *Hong Kong Central MTR* 
+![Hong Kong Central MTR](/assets/images/2017/02/IMG_0685-e1486110282759.jpg) *Hong Kong Central MTR* 
 
 # 5 Power Banks you don’t want to be caught without in 2017
 

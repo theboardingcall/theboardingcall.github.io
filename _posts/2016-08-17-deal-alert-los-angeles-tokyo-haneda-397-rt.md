@@ -9,6 +9,8 @@ categories:
 header:
   image: /assets/images/2016/08/KC_Mori-Tower_1.jpg
   teaser: /assets/images/2016/08/KC_Mori-Tower_1.jpg
+image: /assets/images/2016/08/KC_Mori-Tower_1.jpg
+description: "Flight deal alert: Los Angeles to Tokyo Haneda for just $397 roundtrip. Tips on booking this rare sub-$400 fare to Japan."
 ---
 
 Anything under $500 USD to Tokyo is considered a great deal. Under $400 and to Haneda is an amazing deal. Haneda is the airport closest to the city. Unlike Narita, it doesn’t involve a 90 minute train ride, and you’ll save around 3,000-4,000 JPY in transit costs to and from the airport.

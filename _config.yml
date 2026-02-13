@@ -24,10 +24,22 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Social / Twitter Cards
+twitter:
+  username: theboardingcall
+  card: summary_large_image
+
+# Default OG image (fallback for pages without a specific image)
+og_image: /assets/images/logo.png
 
 # Site Author
 author:
-  name: "The Boarding Call"
+  name: "Kevin Chau"
+  uri: "https://theboardingcall.com/about/"
+  links:
+    - "https://www.instagram.com/theboardingcall/"
 
 # Reading Files
 include:

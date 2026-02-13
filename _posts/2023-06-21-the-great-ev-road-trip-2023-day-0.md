@@ -8,13 +8,15 @@ categories:
 header:
   image: /assets/images/2023/06/Screenshot-2023-06-20-at-10.01.59-PM.png
   teaser: /assets/images/2023/06/Screenshot-2023-06-20-at-10.01.59-PM.png
+image: /assets/images/2023/06/Screenshot-2023-06-20-at-10.01.59-PM.png
+description: "Kicking off a 27-day, 3,000-mile EV road trip through the Western US with daily updates, photos, and charging logistics."
 ---
 
 I’m kicking off a 27 day, 3000 mile road trip through the Western US. I’ll be writing short summaries day to day, and posting photos hopefully nightly. This includes needing to break out the Starlink while in Zion and Bryce Canyon.
 
 Back to packing…
 
-![](/assets/images/2023/06/Screenshot-2023-06-20-at-10.01.59-PM.png) The planned route
+![EV road trip planned route map](/assets/images/2023/06/Screenshot-2023-06-20-at-10.01.59-PM.png) The planned route
 
 See you very soon!
 

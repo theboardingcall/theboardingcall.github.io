@@ -9,6 +9,8 @@ categories:
 header:
   image: /assets/images/2016/08/IMG_2581-scaled.jpg
   teaser: /assets/images/2016/08/IMG_2581-scaled.jpg
+image: /assets/images/2016/08/IMG_2581-scaled.jpg
+description: "The Boarding Call shares travel deals, tips, and guides for flying internationally on a budget. Welcome aboard."
 ---
 
 Until 2015, I haven’t left the country in over 15 years. Since then, I haven’t been back.

@@ -10,6 +10,8 @@ categories:
 header:
   image: /assets/images/2016/08/DSC01062.jpg
   teaser: /assets/images/2016/08/DSC01062.jpg
+image: /assets/images/2016/08/DSC01062.jpg
+description: "How to spend 14 days exploring Iceland for under $3,500 USD with tips on saving money on accommodations, food, and transport."
 ---
 
 Iceland is a dream for many photographers, it almost feels like cheating when you’re photographing the beautiful landscapes. Iceland however is not a cheap destination. Luckily, there are some way to reduce the cost of the trip. Here’s how I cut about $2,000 from my trip to Iceland. At the time, I couldn’t transfer American Express Membership Rewards or Starwood points to Iceland Air. In fact, until recently it was impossible to book Iceland Air using points. That has since changed, Iceland Air is a partner with Alaska Airlines and you can book using Alaska miles. The value isn’t great and there’s surcharges making it a mediocre value, at best.

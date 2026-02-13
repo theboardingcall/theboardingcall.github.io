@@ -4,6 +4,8 @@ permalink: /about/
 layout: single
 header:
   image: /assets/images/2016/08/IMG_2581-scaled.jpg
+image: /assets/images/2016/08/IMG_2581-scaled.jpg
+description: "Meet Kevin and Christy, the duo behind The Boarding Call — sharing budget travel tips, deals, and cultural guides from around the world."
 ---
 
 > There is so much beyond your borders. Leave your country and do it without breaking the bank.
